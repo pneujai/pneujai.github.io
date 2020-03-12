@@ -1,2 +1,2 @@
-const domain_name = "https://fbb73e5a.ngrok.io";
+const domain_name = "https://3f692fc5.ngrok.io";
 location.replace(domain_name + location.pathname);
