@@ -1,1 +1,1 @@
-location.replace("http://61.239.26.108:3390/"+location.pathname);
+location.replace("http://61.239.26.108:3390"+location.pathname);
